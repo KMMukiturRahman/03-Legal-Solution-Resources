@@ -1,0 +1,35 @@
+:root {
+    /* fonts */
+    --font-poppins: Poppins;
+    --font-eb-garamond: "EB Garamond";
+    --font-inherit: inherit;
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-lg: 20px;
+    --font-size-xl: 24px;
+    --font-size-2xl: 32px;
+    --font-size-3xl: 35px;
+    --font-size-4xl: 40px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-tan: #b68c5a;
+    --dark-07: #f3f3f3;
+    --dark-06: #e7e7e7;
+    --dark-05: #cfcfcf;
+    --dark-04: #a0a0a0;
+    --dark-03: #707070;
+    --dark-02: #414040;
+    --dark-01: #111;
+  
+    /* Gaps */
+    --gap-md: 4px;
+  
+    /* Paddings */
+    --padding-md: 32px;
+  
+    /* border radiuses */
+    --br-md: 8px;
+  }
+  

@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.group-parent {
+  position: absolute;
+  height: 0.88%;
+  width: 8.26%;
+  top: 1.13%;
+  right: 72.21%;
+  bottom: 97.99%;
+  left: 2%;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-eb-garamond);
+}
+.group-child,
+  .justice {
+    position: absolute;
+    top: 0;
+  }
+.justice {
+  left: 60.62px;
+  font-weight: 800;
+  font-size: 35px;
+}
+.frame-icon {
+  position: relative;
+}
+.frame-icon {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.first-head {
+  position: absolute;
+  width: 525px;
+  height: 228px;
+  left: 614px;
+  top: 116px;
+  
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 76px;
+  text-align: center;
+  
+  /* Dark 01 */
+  color: white;
+}
+.second-head{
+position: absolute;
+width: 494px;
+height: 78px;
+left: 614px;
+top: 368px;
+text-align: center;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #E7E7E7;
+}
+.third-head{
+  position: absolute;
+  width: 494px;
+  height: 78px;
+  left: 614px;
+  top: 468px;
+  text-align: center;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #E7E7E7;
+  }
+
+.button-color{
+  font-family: 'Poppins';
+  color:white;
+  background-color: #B68C5A;
+  font-style: normal;
+font-weight: 600;
+font-size: 18px;
+padding: 10px;
+}
+
+/* part 3 card image */
+.my-card-header{
+   
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 52px;
+  
+  }
+  .my-card-para{
+   
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+    
+    }
+
+.my-card-image{
+  max-height: 72px;
+  max-width: 70px;
+  justify-content: center;
+  align-items: center;
+  background: none;
+}
+.my-frame-image{
+  max-height: 72px;
+  max-width: 70px;
+  justify-content: center;
+  align-items: center;
+  background: none;
+}
+.my-card-header{
+  font-family: 'EB Garamond';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 42px;
+  color: #414040;
+  
+}
+.card-para{
+  font-family: 'Poppins';
+  font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+  color: #707070;;
+}
