@@ -125,3 +125,12 @@ line-height: 26px;
 .my-slide-image{
   height: 500px;
 }
+.my-footer-bg{
+  background-color: black;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  color: white;
+}
